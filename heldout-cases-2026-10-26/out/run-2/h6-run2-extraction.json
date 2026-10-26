@@ -1,0 +1,14 @@
+{
+ "flags": [],
+ "post_date": "2026-11-03",
+ "stops": [
+  {
+   "address": "19 Rail Spur",
+   "date": "2026-11-03",
+   "end": "2",
+   "place": "Sampleton Depot",
+   "start": "11 AM"
+  }
+ ],
+ "truck": "Sample Waffle Wagon"
+}

@@ -1,0 +1,98 @@
+[
+ {
+  "excerpt": "Monday: Downtown Sample Square for lunch. Details in the picture.",
+  "field": "feed",
+  "id": "2026-11-01T09:00:00-06:00:sample-case-8:0",
+  "image": "images/case8-sunday-post.png",
+  "item": "photo",
+  "page_id": "demo-page",
+  "post_id": "sample-case-8",
+  "posted": "2026-11-01",
+  "ts": "2026-11-01T09:00:00-06:00",
+  "verb": "add"
+ },
+ {
+  "excerpt": "Road trip Saturday - we're rolling to Henderson! Find us at the Henderson Sample Market. Details in the picture.",
+  "field": "feed",
+  "id": "2026-10-30T09:15:00-05:00:sample-case-6:0",
+  "image": "images/case6-out-of-town.png",
+  "item": "photo",
+  "page_id": "demo-page",
+  "post_id": "sample-case-6",
+  "posted": "2026-10-30",
+  "ts": "2026-10-30T09:15:00-05:00",
+  "verb": "add"
+ },
+ {
+  "excerpt": "Sampleton Fall Fest this Saturday! The Sample Noodle Wagon will be there - full details in the flyer.",
+  "field": "feed",
+  "id": "2026-10-30T08:30:00-05:00:sample-case-3:0",
+  "image": "images/case3-event-flyer.png",
+  "item": "photo",
+  "page_id": "demo-page",
+  "post_id": "sample-case-3",
+  "posted": "2026-10-30",
+  "ts": "2026-10-30T08:30:00-05:00",
+  "verb": "add"
+ },
+ {
+  "excerpt": "Friday stop: Sample Auto Parts. Come hungry - see the picture for the details.",
+  "field": "feed",
+  "id": "2026-10-29T08:30:00-05:00:sample-case-4:0",
+  "image": "images/case4-smudged-time.png",
+  "item": "photo",
+  "page_id": "demo-page",
+  "post_id": "sample-case-4",
+  "posted": "2026-10-29",
+  "ts": "2026-10-29T08:30:00-05:00",
+  "verb": "add"
+ },
+ {
+  "excerpt": "Wednesday Oct 28 - two stops! Lunch downtown, then the evening at Sample Brewing Co. Full details in the picture.",
+  "field": "feed",
+  "id": "2026-10-28T09:02:00-05:00:sample-case-2:0",
+  "image": "images/case2-two-stop-day.png",
+  "item": "photo",
+  "page_id": "demo-page",
+  "post_id": "sample-case-2",
+  "posted": "2026-10-28",
+  "ts": "2026-10-28T09:02:00-05:00",
+  "verb": "add"
+ },
+ {
+  "excerpt": "This week's stops are in the picture: Wednesday at Sample Manufacturing (employees only) and Thursday at the Sample Public Library.",
+  "field": "feed",
+  "id": "2026-10-27T08:45:00-05:00:sample-case-7:0",
+  "image": "images/case7-private-stop.png",
+  "item": "photo",
+  "page_id": "demo-page",
+  "post_id": "sample-case-7",
+  "posted": "2026-10-27",
+  "ts": "2026-10-27T08:45:00-05:00",
+  "verb": "add"
+ },
+ {
+  "excerpt": "Tuesday morning coffee at the old mill pavilion. See the picture for details.",
+  "field": "feed",
+  "id": "2026-10-26T09:10:00-05:00:sample-case-5:0",
+  "image": "images/case5-no-address.png",
+  "item": "photo",
+  "page_id": "demo-page",
+  "post_id": "sample-case-5",
+  "posted": "2026-10-26",
+  "ts": "2026-10-26T09:10:00-05:00",
+  "verb": "add"
+ },
+ {
+  "excerpt": "This week's stops are set! Here's where to find the Sample Smoke Co. truck Oct 26-30 - see the schedule and come hungry.",
+  "field": "feed",
+  "id": "2026-10-26T08:15:00-05:00:sample-case-1:0",
+  "image": "images/case1-weekly-schedule.png",
+  "item": "photo",
+  "page_id": "demo-page",
+  "post_id": "sample-case-1",
+  "posted": "2026-10-26",
+  "ts": "2026-10-26T08:15:00-05:00",
+  "verb": "add"
+ }
+]

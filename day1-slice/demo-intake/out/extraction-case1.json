@@ -1,0 +1,48 @@
+{
+ "cases": [
+  {
+   "case": 1,
+   "file": "case1-weekly-schedule.png",
+   "flags": [],
+   "post_date": "2026-10-26",
+   "stops": [
+    {
+     "address": "100 River Bend Rd",
+     "date": "2026-10-26",
+     "end": "2 PM",
+     "place": "Riverside Sample Lot",
+     "start": "11 AM"
+    },
+    {
+     "address": "220 Main St",
+     "date": "2026-10-27",
+     "end": "2 PM",
+     "place": "Sampleton Hardware",
+     "start": "11 AM"
+    },
+    {
+     "address": "35 Center Ave",
+     "date": "2026-10-28",
+     "end": "7 PM",
+     "place": "Sample Community Center",
+     "start": "4 PM"
+    },
+    {
+     "address": "780 Northgate Dr",
+     "date": "2026-10-29",
+     "end": "2 PM",
+     "place": "Northgate Sample Plaza",
+     "start": "11 AM"
+    },
+    {
+     "address": "15 Schoolhouse Ln",
+     "date": "2026-10-30",
+     "end": "3 PM",
+     "place": "Sampleton High School lot",
+     "start": "11 AM"
+    }
+   ],
+   "truck": "Sample Smoke Co."
+  }
+ ]
+}

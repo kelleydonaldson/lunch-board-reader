@@ -1,0 +1,21 @@
+{
+ "flags": [],
+ "post_date": "2026-11-06",
+ "stops": [
+  {
+   "address": "1 Civic Plaza",
+   "date": "2026-11-06",
+   "end": "1 PM",
+   "place": "Sampleton City Hall",
+   "start": "11 AM"
+  },
+  {
+   "address": "77 Stage Door Ln",
+   "date": "2026-11-06",
+   "end": "8 PM",
+   "place": "Sample Community Theater",
+   "start": "5 PM"
+  }
+ ],
+ "truck": "Sample Curry Cart"
+}

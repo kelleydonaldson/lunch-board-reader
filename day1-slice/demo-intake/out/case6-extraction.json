@@ -1,0 +1,14 @@
+{
+ "flags": [],
+ "post_date": "2026-10-30",
+ "stops": [
+  {
+   "address": "55 Market St, Henderson, KY",
+   "date": "2026-10-31",
+   "end": "3 PM",
+   "place": "Henderson Sample Market",
+   "start": "11 AM"
+  }
+ ],
+ "truck": "Sample Smoke Co."
+}

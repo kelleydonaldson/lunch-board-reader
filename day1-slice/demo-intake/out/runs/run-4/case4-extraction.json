@@ -1,0 +1,21 @@
+{
+ "flags": [
+  {
+   "code": "UNREADABLE",
+   "field": "end",
+   "note": "End time is obscured by blot and cannot be read.",
+   "stop": 0
+  }
+ ],
+ "post_date": "2026-10-29",
+ "stops": [
+  {
+   "address": "640 Mechanic St",
+   "date": "2026-10-30",
+   "end": null,
+   "place": "Sample Auto Parts",
+   "start": "11 AM"
+  }
+ ],
+ "truck": "Sample Burger Bus"
+}

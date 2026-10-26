@@ -1,0 +1,21 @@
+{
+ "flags": [
+  {
+   "code": "WEEK_UNCLEAR",
+   "field": "date",
+   "note": "Monday falls before the post date Sunday so week is unclear.",
+   "stop": 0
+  }
+ ],
+ "post_date": "2026-11-01",
+ "stops": [
+  {
+   "address": "10 Court Sq",
+   "date": null,
+   "end": "2 PM",
+   "place": "Downtown Sample Square",
+   "start": "11 AM"
+  }
+ ],
+ "truck": "Sample Taco Cart"
+}

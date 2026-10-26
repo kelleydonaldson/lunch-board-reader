@@ -1,0 +1,69 @@
+{
+ "cases": [
+  {
+   "case": 1,
+   "file": "case1-weekly-schedule.png",
+   "flags": [],
+   "post_date": "2026-10-26",
+   "stops": [],
+   "truck": null
+  },
+  {
+   "case": 2,
+   "file": "case2-two-stop-day.png",
+   "flags": [],
+   "post_date": "2026-10-28",
+   "stops": [],
+   "truck": null
+  },
+  {
+   "case": 3,
+   "file": "case3-event-flyer.png",
+   "flags": [],
+   "post_date": "2026-10-30",
+   "stops": [],
+   "truck": null
+  },
+  {
+   "case": 4,
+   "file": "case4-smudged-time.png",
+   "flags": [],
+   "post_date": "2026-10-29",
+   "stops": [],
+   "truck": null
+  },
+  {
+   "case": 5,
+   "file": "case5-no-address.png",
+   "flags": [],
+   "post_date": "2026-10-26",
+   "stops": [],
+   "truck": null
+  },
+  {
+   "case": 6,
+   "file": "case6-out-of-town.png",
+   "flags": [],
+   "post_date": "2026-10-30",
+   "stops": [],
+   "truck": null
+  },
+  {
+   "case": 7,
+   "file": "case7-private-stop.png",
+   "flags": [],
+   "post_date": "2026-10-27",
+   "stops": [],
+   "truck": null
+  },
+  {
+   "case": 8,
+   "file": "case8-sunday-post.png",
+   "flags": [],
+   "post_date": "2026-11-01",
+   "stops": [],
+   "truck": null
+  }
+ ],
+ "kit": "Lunch Board Reader extraction (revised brief s5 schema) - one object per post: {truck, post_date, stops[], flags[{code, stop, field, note}]}. Fill stops/flags from the model return, then score with score.py"
+}

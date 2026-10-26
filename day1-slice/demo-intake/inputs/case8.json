@@ -1,0 +1,13 @@
+{
+ "answer_key": "../../sample-cases-2026-10-23/answer-key.json",
+ "case": 8,
+ "demo_image": "../store/images/case8-sunday-post.png",
+ "event_id": "2026-11-01T09:00:00-06:00:sample-case-8:0",
+ "image": "../../sample-cases-2026-10-23/case8-sunday-post.png",
+ "kit_file": "case8-sunday-post.png",
+ "post_text": "Monday: Downtown Sample Square for lunch. Details in the picture.",
+ "posted": "2026-11-01",
+ "scorer": "../../score.py",
+ "tests": "Sunday post naming Monday under the Mon-Sun week rule -> WEEK_UNCLEAR flag on date, date null; no week is guessed (Oct 26 and Nov 2 are both FAILs).",
+ "truck": "Sample Taco Cart"
+}

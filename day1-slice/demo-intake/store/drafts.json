@@ -1,0 +1,121 @@
+[
+ {
+  "event_id": "2026-10-30T09:15:00-05:00:sample-case-6:0",
+  "id": "dmvpolh4khha",
+  "kind": "Other update",
+  "note": "Lunch Board Reader draft: 2026-10-31 11 AM-3 PM Henderson Sample Market (55 Market St, Henderson, KY)",
+  "reader": {
+   "flags": [],
+   "stops": [
+    {
+     "address": "55 Market St, Henderson, KY",
+     "date": "2026-10-31",
+     "end": "3 PM",
+     "place": "Henderson Sample Market",
+     "start": "11 AM"
+    }
+   ],
+   "truck": "Sample Smoke Co."
+  },
+  "status": "awaiting merchant text approval",
+  "ts": "2026-10-26T20:00:29+00:00"
+ },
+ {
+  "event_id": "2026-10-30T08:30:00-05:00:sample-case-3:0",
+  "id": "dmvpolh4gbzt",
+  "kind": "Other update",
+  "note": "Lunch Board Reader draft: 2026-10-31 5 PM-9 PM Sample Fairgrounds (900 Fairgrounds Rd)",
+  "reader": {
+   "flags": [],
+   "stops": [
+    {
+     "address": "900 Fairgrounds Rd",
+     "date": "2026-10-31",
+     "end": "9 PM",
+     "place": "Sample Fairgrounds",
+     "start": "5 PM"
+    }
+   ],
+   "truck": "Sample Noodle Wagon"
+  },
+  "status": "awaiting merchant text approval",
+  "ts": "2026-10-26T20:00:29+00:00"
+ },
+ {
+  "event_id": "2026-10-28T09:02:00-05:00:sample-case-2:0",
+  "id": "dmvpolh4e5zy",
+  "kind": "Other update",
+  "note": "Lunch Board Reader draft: 2026-10-28 11 AM-1 PM Downtown Sample Square (10 Court Sq); 2026-10-28 5 PM-8 PM Sample Brewing Co. (410 Ale House Way)",
+  "reader": {
+   "flags": [],
+   "stops": [
+    {
+     "address": "10 Court Sq",
+     "date": "2026-10-28",
+     "end": "1 PM",
+     "place": "Downtown Sample Square",
+     "start": "11 AM"
+    },
+    {
+     "address": "410 Ale House Way",
+     "date": "2026-10-28",
+     "end": "8 PM",
+     "place": "Sample Brewing Co.",
+     "start": "5 PM"
+    }
+   ],
+   "truck": "Sample Taco Cart"
+  },
+  "status": "awaiting merchant text approval",
+  "ts": "2026-10-26T20:00:29+00:00"
+ },
+ {
+  "event_id": "2026-10-26T08:15:00-05:00:sample-case-1:0",
+  "id": "dmvpolh4baer",
+  "kind": "Other update",
+  "note": "Lunch Board Reader draft: 2026-10-26 11 AM-2 PM Riverside Sample Lot (100 River Bend Rd); 2026-10-27 11 AM-2 PM Sampleton Hardware (220 Main St); 2026-10-28 4 PM-7 PM Sample Community Center (35 Center Ave); 2026-10-29 11 AM-2 PM Northgate Sample Plaza (780 Northgate Dr); 2026-10-30 11 AM-3 PM Sampleton High School lot (15 Schoolhouse Ln)",
+  "reader": {
+   "flags": [],
+   "stops": [
+    {
+     "address": "100 River Bend Rd",
+     "date": "2026-10-26",
+     "end": "2 PM",
+     "place": "Riverside Sample Lot",
+     "start": "11 AM"
+    },
+    {
+     "address": "220 Main St",
+     "date": "2026-10-27",
+     "end": "2 PM",
+     "place": "Sampleton Hardware",
+     "start": "11 AM"
+    },
+    {
+     "address": "35 Center Ave",
+     "date": "2026-10-28",
+     "end": "7 PM",
+     "place": "Sample Community Center",
+     "start": "4 PM"
+    },
+    {
+     "address": "780 Northgate Dr",
+     "date": "2026-10-29",
+     "end": "2 PM",
+     "place": "Northgate Sample Plaza",
+     "start": "11 AM"
+    },
+    {
+     "address": "15 Schoolhouse Ln",
+     "date": "2026-10-30",
+     "end": "3 PM",
+     "place": "Sampleton High School lot",
+     "start": "11 AM"
+    }
+   ],
+   "truck": "Sample Smoke Co."
+  },
+  "status": "awaiting merchant text approval",
+  "ts": "2026-10-26T20:00:29+00:00"
+ }
+]

@@ -1,0 +1,27 @@
+{
+ "cases": [
+  {
+   "case": 5,
+   "file": "case5-no-address.png",
+   "flags": [
+    {
+     "code": "NO_STREET_ADDRESS",
+     "field": "address",
+     "note": "No street address was printed for this stop.",
+     "stop": 0
+    }
+   ],
+   "post_date": "2026-10-26",
+   "stops": [
+    {
+     "address": null,
+     "date": "2026-10-27",
+     "end": "10 AM",
+     "place": "the old mill pavilion",
+     "start": "7 AM"
+    }
+   ],
+   "truck": "Sample Coffee Cart"
+  }
+ ]
+}

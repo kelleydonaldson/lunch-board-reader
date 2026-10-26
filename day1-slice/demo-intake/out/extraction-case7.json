@@ -1,0 +1,27 @@
+{
+ "cases": [
+  {
+   "case": 7,
+   "file": "case7-private-stop.png",
+   "flags": [
+    {
+     "code": "PRIVATE_STOP",
+     "field": null,
+     "note": "Wednesday stop at Sample Manufacturing is employees only.",
+     "stop": null
+    }
+   ],
+   "post_date": "2026-10-27",
+   "stops": [
+    {
+     "address": "5 Book Ln",
+     "date": "2026-10-29",
+     "end": "2 PM",
+     "place": "Sample Public Library",
+     "start": "11 AM"
+    }
+   ],
+   "truck": "Sample Burger Bus"
+  }
+ ]
+}

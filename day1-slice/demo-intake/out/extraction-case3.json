@@ -1,0 +1,20 @@
+{
+ "cases": [
+  {
+   "case": 3,
+   "file": "case3-event-flyer.png",
+   "flags": [],
+   "post_date": "2026-10-30",
+   "stops": [
+    {
+     "address": "900 Fairgrounds Rd",
+     "date": "2026-10-31",
+     "end": "9 PM",
+     "place": "Sample Fairgrounds",
+     "start": "5 PM"
+    }
+   ],
+   "truck": "Sample Noodle Wagon"
+  }
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "answer_key": "../../sample-cases-2026-10-23/answer-key.json",
+ "case": 6,
+ "demo_image": "../store/images/case6-out-of-town.png",
+ "event_id": "2026-10-30T09:15:00-05:00:sample-case-6:0",
+ "image": "../../sample-cases-2026-10-23/case6-out-of-town.png",
+ "kit_file": "case6-out-of-town.png",
+ "post_text": "Road trip Saturday - we're rolling to Henderson! Find us at the Henderson Sample Market. Details in the picture.",
+ "posted": "2026-10-30",
+ "scorer": "../../score.py",
+ "tests": "Out-of-town stop stays on the board with town + state named in the address (Henderson, KY); clean extraction, NO flags expected.",
+ "truck": "Sample Smoke Co."
+}

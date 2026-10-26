@@ -1,0 +1,21 @@
+{
+ "flags": [],
+ "post_date": "2026-11-04",
+ "stops": [
+  {
+   "address": "64 Novel St",
+   "date": "2026-11-04",
+   "end": "1 PM",
+   "place": "Sampleton Bookstore",
+   "start": "11 AM"
+  },
+  {
+   "address": "900 Grapevine Rd",
+   "date": "2026-11-04",
+   "end": "9 PM",
+   "place": "Sample Vineyard",
+   "start": "5 PM"
+  }
+ ],
+ "truck": "Sample Dumpling Cart"
+}

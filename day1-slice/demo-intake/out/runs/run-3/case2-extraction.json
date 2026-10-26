@@ -1,0 +1,21 @@
+{
+ "flags": [],
+ "post_date": "2026-10-28",
+ "stops": [
+  {
+   "address": "10 Court Sq",
+   "date": "2026-10-28",
+   "end": "1 PM",
+   "place": "Downtown Sample Square",
+   "start": "11 AM"
+  },
+  {
+   "address": "410 Ale House Way",
+   "date": "2026-10-28",
+   "end": "8 PM",
+   "place": "Sample Brewing Co.",
+   "start": "5 PM"
+  }
+ ],
+ "truck": "Sample Taco Cart"
+}

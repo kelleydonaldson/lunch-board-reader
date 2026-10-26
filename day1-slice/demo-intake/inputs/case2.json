@@ -1,0 +1,14 @@
+{
+ "answer_key": "../../sample-cases-2026-10-23/answer-key.json",
+ "case": 2,
+ "demo_image": "../store/images/case2-two-stop-day.png",
+ "event_id": "2026-10-28T09:02:00-05:00:sample-case-2:0",
+ "image": "../../sample-cases-2026-10-23/case2-two-stop-day.png",
+ "kit_file": "case2-two-stop-day.png",
+ "post_text": "Wednesday Oct 28 - two stops! Lunch downtown, then the evening at Sample Brewing Co. Full details in the picture.",
+ "posted": "2026-10-28",
+ "score_sheet": "../../day1-score-sheet-cases1-2.md",
+ "scorer": "../../score.py",
+ "tests": "Two stops on one day (Wed Oct 28, 2026), each time paired to its own stop; NO flags expected.",
+ "truck": "Sample Taco Cart"
+}

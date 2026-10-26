@@ -1,0 +1,14 @@
+{
+ "answer_key": "../../sample-cases-2026-10-23/answer-key.json",
+ "case": 1,
+ "demo_image": "../store/images/case1-weekly-schedule.png",
+ "event_id": "2026-10-26T08:15:00-05:00:sample-case-1:0",
+ "image": "../../sample-cases-2026-10-23/case1-weekly-schedule.png",
+ "kit_file": "case1-weekly-schedule.png",
+ "post_text": "This week's stops are set! Here's where to find the Sample Smoke Co. truck Oct 26-30 - see the schedule and come hungry.",
+ "posted": "2026-10-26",
+ "score_sheet": "../../day1-score-sheet-cases1-2.md",
+ "scorer": "../../score.py",
+ "tests": "Weekday -> date anchoring from the post date (Mon Oct 26, 2026); clean extraction of a 5-day weekly schedule, one stop per day; NO flags expected.",
+ "truck": "Sample Smoke Co."
+}

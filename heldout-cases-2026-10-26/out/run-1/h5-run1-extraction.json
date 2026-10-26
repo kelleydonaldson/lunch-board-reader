@@ -1,0 +1,21 @@
+{
+ "flags": [],
+ "post_date": "2026-11-07",
+ "stops": [
+  {
+   "address": "100 River Bend Rd",
+   "date": "2026-11-07",
+   "end": "2 PM",
+   "place": "Riverside Sample Lot",
+   "start": "11 AM"
+  },
+  {
+   "address": "900 Fairgrounds Rd",
+   "date": "2026-11-07",
+   "end": "7 PM",
+   "place": "Sample Fairgrounds",
+   "start": "4 PM"
+  }
+ ],
+ "truck": "Sample Smoke Co. \u00d7 Sample Taco Cart"
+}

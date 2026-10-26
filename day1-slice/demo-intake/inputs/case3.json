@@ -1,0 +1,13 @@
+{
+ "answer_key": "../../sample-cases-2026-10-23/answer-key.json",
+ "case": 3,
+ "demo_image": "../store/images/case3-event-flyer.png",
+ "event_id": "2026-10-30T08:30:00-05:00:sample-case-3:0",
+ "image": "../../sample-cases-2026-10-23/case3-event-flyer.png",
+ "kit_file": "case3-event-flyer.png",
+ "post_text": "Sampleton Fall Fest this Saturday! The Sample Noodle Wagon will be there - full details in the flyer.",
+ "posted": "2026-10-30",
+ "scorer": "../../score.py",
+ "tests": "Event flyer that clearly says the truck will be there; the address exists only inside the image; clean extraction, NO flags expected.",
+ "truck": "Sample Noodle Wagon"
+}

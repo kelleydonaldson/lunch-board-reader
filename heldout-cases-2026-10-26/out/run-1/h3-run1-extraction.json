@@ -1,0 +1,21 @@
+{
+ "flags": [],
+ "post_date": "2026-11-05",
+ "stops": [
+  {
+   "address": "1200 Retail Row",
+   "date": "2026-11-05",
+   "end": "2 PM",
+   "place": "Northgate Sample Mall",
+   "start": "11 AM"
+  },
+  {
+   "address": "33 Wheel Way",
+   "date": "2026-11-05",
+   "end": "7 PM",
+   "place": "Sampleton Skate Park",
+   "start": "4 PM"
+  }
+ ],
+ "truck": "Sample Slice Truck"
+}

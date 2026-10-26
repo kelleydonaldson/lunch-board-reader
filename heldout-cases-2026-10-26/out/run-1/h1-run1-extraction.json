@@ -1,0 +1,42 @@
+{
+ "flags": [],
+ "post_date": "2026-11-02",
+ "stops": [
+  {
+   "address": "88 Shore Dr",
+   "date": "2026-11-02",
+   "end": "2 PM",
+   "place": "Lakeside Sample Park",
+   "start": "11 AM"
+  },
+  {
+   "address": "12 Postal Way",
+   "date": "2026-11-03",
+   "end": "2 PM",
+   "place": "Sampleton Post Office",
+   "start": "11 AM"
+  },
+  {
+   "address": "300 Strike Ln",
+   "date": "2026-11-04",
+   "end": "8 PM",
+   "place": "Sample Bowling Alley",
+   "start": "4 PM"
+  },
+  {
+   "address": "415 Sunset Blvd",
+   "date": "2026-11-05",
+   "end": "2 PM",
+   "place": "Westside Sample Market",
+   "start": "11 AM"
+  },
+  {
+   "address": "7 Engine Ct",
+   "date": "2026-11-06",
+   "end": "3 PM",
+   "place": "Sampleton Fire Station",
+   "start": "11 AM"
+  }
+ ],
+ "truck": "Sample Grill Wagon"
+}

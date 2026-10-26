@@ -1,0 +1,13 @@
+{
+ "answer_key": "../../sample-cases-2026-10-23/answer-key.json",
+ "case": 4,
+ "demo_image": "../store/images/case4-smudged-time.png",
+ "event_id": "2026-10-29T08:30:00-05:00:sample-case-4:0",
+ "image": "../../sample-cases-2026-10-23/case4-smudged-time.png",
+ "kit_file": "case4-smudged-time.png",
+ "post_text": "Friday stop: Sample Auto Parts. Come hungry - see the picture for the details.",
+ "posted": "2026-10-29",
+ "scorer": "../../score.py",
+ "tests": "Smudged/unreadable end time -> UNREADABLE flag on the end field, end null. Flag, never guess: any specific end time is a FAIL.",
+ "truck": "Sample Burger Bus"
+}

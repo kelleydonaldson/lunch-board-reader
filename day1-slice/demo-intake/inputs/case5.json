@@ -1,0 +1,13 @@
+{
+ "answer_key": "../../sample-cases-2026-10-23/answer-key.json",
+ "case": 5,
+ "demo_image": "../store/images/case5-no-address.png",
+ "event_id": "2026-10-26T09:10:00-05:00:sample-case-5:0",
+ "image": "../../sample-cases-2026-10-23/case5-no-address.png",
+ "kit_file": "case5-no-address.png",
+ "post_text": "Tuesday morning coffee at the old mill pavilion. See the picture for details.",
+ "posted": "2026-10-26",
+ "scorer": "../../score.py",
+ "tests": "Place name with no street address -> NO_STREET_ADDRESS flag on address, address null; the place stays plain text, no guessed address.",
+ "truck": "Sample Coffee Cart"
+}
