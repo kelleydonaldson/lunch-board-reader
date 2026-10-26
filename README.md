@@ -53,6 +53,55 @@ model (`muse-spark-1.3`) with a fixed written recipe
 (`day1-slice/recipe.md`) — the same instructions every time,
 weekdays anchored to the post date inside a Monday–Sunday week.
 
+## For judges: see it work
+
+Two ways to check the claims in this repo yourself. Neither needs
+an API key, a network connection, or anything installed beyond a
+browser and Python 3.
+
+**Look at the queue and the board.** Open
+`day1-slice/demo-intake/queue.html` in a browser. It is the
+approval queue exactly as the real reads filed it: four drafts
+awaiting approval — the clean reads — and a flag pile holding the
+four reads the system refused to file clean (cases 4, 5, 7, 8: a
+smudged end time, a place with no street address, an
+employees-only stop, a week that could mean two Mondays), each
+shown beside the post it came from. Then open
+`day1-slice/demo-intake/board.html`. The board is empty. That is
+not missing data — it is the approval gate working as designed:
+filing never approves anything, and no person has approved these
+drafts yet, so nothing has reached the board.
+
+**Re-score the saved reads.** The extractions archived from the
+live runs score against the answer key offline:
+
+```bash
+python3 day1-slice/score.py day1-slice/demo-intake/out/extractions.json
+```
+
+It prints:
+
+```text
+PASS — all cases match the answer key on all 97 compared fields.
+```
+
+The held-out reads score the same way — this command also runs an
+invented-value check against the values printed on the graphic:
+
+```bash
+python3 heldout-cases-2026-10-26/score_heldout.py \
+  heldout-cases-2026-10-26/out/run-1/h5-run1-extraction.json H5
+```
+
+It returns a JSON verdict of `PASS` — 13 fields compared, no
+differences, no invented values. (Every run of every held-out case
+is saved under `heldout-cases-2026-10-26/out/` and scores the same
+way.)
+
+Making *new* live reads is the one thing here that takes a Meta
+Model API key. No key is included in this repo, by design;
+everything above runs without one.
+
 ## Evidence
 
 Tested against eight invented sample cases built to probe the
